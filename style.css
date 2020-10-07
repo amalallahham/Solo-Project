@@ -1,0 +1,104 @@
+#b1{
+	font-family: sans-serif;
+	/*margin: 0px
+	padding:0px*/
+	background-image: url("tr9.jpg") ;
+	background-size:1800px 700px ;
+	background-repeat: no-repeat;
+	background-position: top
+	background-size: cover;
+
+/*background-color: #C5EBE9
+*/}
+
+
+
+header {
+  background-color:#9054BB;
+  color: white;
+	position: fixed;
+	top: 0px;
+ 	 width: 100%;
+  	left: 0px
+  	bottom:50px;
+}
+.login {
+	margin:100px 500px 0px 20px;
+		text-align:center;
+		position: absolute;
+	transform: translate(0%,20%);
+	background ;
+	top: 30%
+	left:10%;
+	padding: 30px 10px 20px 10px;
+}
+/*.country {
+  position: relative;
+  width: 50%;
+}
+.image1 {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-top: 500px
+
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #008CBA;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+}
+.container:hover .overlay {
+  height: 100%;
+}
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}*/
+
+
+
+* {
+	box-sizing: border-box;
+}
+
+.column {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+}
+
+.row::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+* {
+	box-sizing: border-box;
+}
+
+.column2 {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+}
+
+.row2::after {
+	content: "";
+	display: table;
+	clear: both;
+}
